@@ -1,0 +1,7 @@
+# prisoners = { <ID>: {name: <name>, cell: <cell>, ...}}
+
+prisoners = {}
+
+prisonerID = input("Enter prisoner ID: ")
+prisonerID = input("Enter prisoner ID: ")
+prisonerID = input("Enter prisoner ID: ")
